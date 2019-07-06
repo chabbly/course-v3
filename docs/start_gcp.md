@@ -94,7 +94,7 @@ Pick cloud project to use:
 ```
 Just enter the number next to the project you created on step 1. If you select the choice "Create a new project", you will be reminded you also have to run "gcloud projects create my-project-3".
 
-Lastly, you'll be asked if you want to choose a default region, choose us-west1-b if you don't have any particular preference, as it will make the command to connect to this server easier.
+Lastly, you'll be asked if you want to choose a default region, choose us-west2-b if you don't have any particular preference, as it will make the command to connect to this server easier.
 
 Once this is done, you should see this message on your terminal:
 ```
